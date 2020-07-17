@@ -1,0 +1,14 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri":"mysql://root:@localhost/puppysite",
+    "prod_uri": "mysql://root:@localhost/puppysite",
+    "fb_url": "https://facebook.com/puppysite",
+    "tw_url": "https://twitter.com/puppysite",
+    "gh_url": "https://github.com/puppysite",
+    "blog_name": "PUPPY BLOG",
+    "tag_line": "LIFE OF PUPPY'S"
+
+  }
+}
